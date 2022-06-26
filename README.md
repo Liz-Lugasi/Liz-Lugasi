@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Liz-Lugasi
-- 👀 I’m interested in ML,SQL,DataAnalysis,Data,Python
+- 👀 I’m interested in ML,SQL,DataAnalysis,Data Engineering,Python
 - 🌱 I’m currently learning B.Sc. Computer Science
 - 📫 How to reach me Aliza1400@gmail.com
